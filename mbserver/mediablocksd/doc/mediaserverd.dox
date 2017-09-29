@@ -1,0 +1,14 @@
+/**
+ * @mainpage This is the mainpage
+ */
+
+/**
+ * @defgroup group_configuration Configuration
+ * Edits the configuration of the device.
+ * @sa MediaBlocks::Configuration for device configuration
+ */
+
+/**
+ * @defgroup group_interface Interface
+ *
+ */

@@ -1,0 +1,12 @@
+/**
+ * @defgroup group_configuration_device Device Configuration
+ * @ingroup group_configuration
+ * @page page_configuration_test Testing the configuration
+ * @tableofcontents
+ * @section section_testing Testing
+ */
+
+/**
+ * @defgroup group_configuration_settings System Settings
+ * @ingroup group_configuration
+ */
